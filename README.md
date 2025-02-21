@@ -1,4 +1,4 @@
-Project started 2025-02-16
+Project started in UNIX in 2025-02-16
 
 2025-02-17: Used 'grep' to create teosinite and maize genotype files in accordance with the selected groups. Also sorted and removed unnecessary columns from the snp_position.txt. Then joined the snps file and genotype files together after sorting.
 
